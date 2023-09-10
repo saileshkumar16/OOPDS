@@ -18,3 +18,6 @@ Design a UML sequence Diagram for the Password Validation system.
 A sequence diagram consists of a group of objects that are represented by lifelines, and the messages that they exchange over time during the interaction. A sequence diagram shows the sequence of messages passed between objects. Sequence diagrams can also show the control structures between objects.
 # Explanation
 In password validation, the user enters will the user name and password in the login page, In the user data base the login credentials are validated. If the login credentials are correct, the login page will be redirected to Dashboard page. If the login details are incorrect, the database page will communicate to the login page saying "username or password is invalid" and user has to enter the valid credentials. This relationship is interpreted in the form of a UML sequence diagram.
+
+# Output Screenshot
+![UML sequence diagram for password validation system](https://github.com/saileshkumar16/UML-Lab_Experiments/assets/144588637/6df0d2f9-7458-4da9-bf1d-685efcdd0c79)
