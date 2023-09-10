@@ -5,5 +5,5 @@ A use case diagram is used to represent the dynamic behavior of a system.
 It encapsulates the system's functionality by incorporating use cases, actors, and their relationships. 
 It models the tasks, services, and functions required by a system/subsystem of an application. It depicts the high-level functionality of a system and also tells how the user handles a system.
 
-# UML Lab Experiment-1
+# UML Lab Experiment-2
 Design a UML sequence Diagram for Password Validation system.
