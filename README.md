@@ -1,4 +1,4 @@
-# UML Lab Experiment-1
+# UML Lab Experiment-4 30/08/2023
 Design a UML use case diagram for an online ticket booking system.
 # Theory
 A use case diagram is used to represent the dynamic behavior of a system. 
@@ -12,7 +12,7 @@ In the online ticket booking system, the user can browse the movies, select the 
 
 
 
-# UML Lab Experiment-2
+# UML Lab Experiment-5 06/09/23
 Design a UML sequence Diagram for the Password Validation system.
 # Theory
 A sequence diagram consists of a group of objects that are represented by lifelines, and the messages that they exchange over time during the interaction. A sequence diagram shows the sequence of messages passed between objects. Sequence diagrams can also show the control structures between objects.
